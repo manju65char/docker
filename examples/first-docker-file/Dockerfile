@@ -1,3 +1,5 @@
+#used the official ubuntu as base image
+
 FROM ubuntu:latest
 
 # Set the working directory in the image
